@@ -9,7 +9,7 @@
 - <b> My first mobile app, done in Android Studio </b>
 	- [For foodies by foodies](link to come)
 - <b> My disertation project, done in Visual Studio 2019 (C# & Winforms) </b>
-	- [Student Register](link to come)
+	- [Student Register](https://github.com/RaduVantu/StudentRegister)
 
 <h4> Web design: </h4>
 
@@ -37,10 +37,10 @@
 <h4> Software Development: </h4>
 
 - <b> IP converter from decimal to binary and vice versa (C# & WPF) </b>
-	- [IP Converter](link to come)
+	- [IP Converter](https://github.com/RaduVantu/IPConverter)
 
 - <b> Payslip Calculator (C# & Winforms) </b>
-	- [Payslip (Winforms)](link to come)
+	- [Payslip (Winforms)](https://github.com/RaduVantu/PayslipCalculator-Winforms)
 
 - <b> The same Payslip Calculator (C# & WPF) </b>
-	- [Payslip (WPF)](link to come)
+	- [Payslip (WPF)](https://github.com/RaduVantu/PayslipCalculator-WPF)

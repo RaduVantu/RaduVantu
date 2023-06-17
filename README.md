@@ -7,7 +7,7 @@
 - <b> My first ever program, done in NetBeans (Java & Console) </b>
 	- [Payslip Generator](https://github.com/RaduVantu/PayslipGenerator)
 - <b> My first mobile app, done in Android Studio </b>
-	- [For foodies by foodies](link to come)
+	- [For foodies by foodies](https://github.com/RaduVantu/ForFoodiesByFoodies)
 - <b> My disertation project, done in Visual Studio 2019 (C# & Winforms) </b>
 	- [Student Register](https://github.com/RaduVantu/StudentRegister)
 

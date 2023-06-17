@@ -30,7 +30,7 @@
 <h4> Internet of Things: </h4>
 
 - <b> A wireless premises access method using IoT devices, done in TinkerCad </b>
-	- [Dor look on remote](https://github.com/RaduVantu/MyFirstIoTDevice)
+	- [Door look on remote](https://github.com/RaduVantu/MyFirstIoTDevice)
 
 <h3> Some personal projects: </h3>
 

@@ -5,7 +5,7 @@
 <h4> Software Development: </h4>
 
 - <b> My first ever program, done in NetBeans (Java & Console) </b>
-	- [Payslip Generator](link to come)
+	- [Payslip Generator](https://github.com/RaduVantu/PayslipGenerator)
 - <b> My first mobile app, done in Android Studio </b>
 	- [For foodies by foodies](link to come)
 - <b> My disertation project, done in Visual Studio 2019 (C# & Winforms) </b>

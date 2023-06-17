@@ -14,23 +14,23 @@
 <h4> Web design: </h4>
 
 - <b> My first webpage, done in CodePen </b>
-	- [My first webpage](link to come)
+	- [My first webpage](https://github.com/RaduVantu/MyFirstWebpage)
 
 <h4> Networking: </h4>
 
 - <b> Designing and implementing the network infrastructure <br/> 
       for a small company, done in PacketTracer </b>
-	- [Gogol.co.uk network](link to come)
+	- [Gogol.co.uk network](https://github.com/RaduVantu/SmallNetworkInfrastructure)
 	
 <h4> UI/UX: </h4>
 
 - <b> A UI/UX wireframe design project, done in Pencil </b>
-	- [WorldCraft online shopping website model](link to come)
+	- [WorldCraft online shopping website model](https://github.com/RaduVantu/MyFirstUIDesignWireframes)
 	
 <h4> Internet of Things: </h4>
 
-- <b> A wireless premise access method using IoT devices, done in TinkerCad </b>
-	- [Dor look on remote](link to come)
+- <b> A wireless premises access method using IoT devices, done in TinkerCad </b>
+	- [Dor look on remote](https://github.com/RaduVantu/MyFirstIoTDevice)
 
 <h3> Some personal projects: </h3>
 
